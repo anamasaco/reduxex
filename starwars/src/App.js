@@ -1,5 +1,5 @@
 import React from 'react';
-import { Characters } from './components/Characters';
+import { Characters } from './components/Characters/index';
 import './App.css';
 
 function App() {
